@@ -13,3 +13,6 @@ senha = ''
 
 for i in range(tamanho):
     sorteado = random.choice(letras_minusculas)
+
+
+
